@@ -1,2 +1,2 @@
-# cross-manager
+# Cross Manager
 Viewer and manager for your cross-stitch patterns (Linux and Android)
